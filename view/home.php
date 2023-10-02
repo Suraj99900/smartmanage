@@ -46,7 +46,7 @@ include_once "./CDN_Header.php"
                             <a href="#contact" class="btn hire-me">Click To More</a>
                         </div>
                         <div class="home-img padd-15">
-                            <img src="res/img/me.png">
+                            <img src="../res/img/me.png">
                         </div>
                     </div>
                 </div>
@@ -291,7 +291,7 @@ include_once "./CDN_Header.php"
 
                         <div class="banner-box items padd-15">
                             <div class="slider-img">
-                                <img src="res/img/1_.jpg" id="banner_img">
+                                <img src="../res/img/1_.jpg" id="banner_img">
                             </div>
                             <div class="caption-box padd-15">
                                 <h2 class="caption_text ">A Person who has never made a mistake has never tried anything
@@ -314,31 +314,31 @@ include_once "./CDN_Header.php"
                         <div class="collection__gallery padd-15">
                             <div class="row">
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_1.jpg">
+                                    <img src="../res/img/gallery_1.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_2.jpg">
+                                    <img src="../res/img/gallery_2.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_3.jpg">
+                                    <img src="../res/img/gallery_3.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_4.jpg">
+                                    <img src="../res/img/gallery_4.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_5.jpg">
+                                    <img src="../res/img/gallery_5.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_6.jpg">
+                                    <img src="../res/img/gallery_6.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_7.jpg">
+                                    <img src="../res/img/gallery_7.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_8.jpg">
+                                    <img src="../res/img/gallery_8.jpg">
                                 </div>
                                 <div class="gallery-box item padd-15">
-                                    <img src="res/img/gallery_9.jpg">
+                                    <img src="../res/img/gallery_9.jpg">
                                 </div>
                             </div>
                         </div>
@@ -468,7 +468,7 @@ include_once "./CDN_Header.php"
                                             smartpolys.com
                                         </h2>
                                         <div class="img__box">
-                                            <a href="http://smartpolys.com"><img src="res/img/project_1.png" alt=""></a>
+                                            <a href="http://smartpolys.com"><img src="../res/img/project_1.png" alt=""></a>
                                         </div>
                                     </div>
                                     <div class="tabs__content">
@@ -476,7 +476,7 @@ include_once "./CDN_Header.php"
                                             Freecode.today
                                         </h2>
                                         <div class="img__box">
-                                            <a href="http://freecode.today"><img src="res/img/project_2.png" alt=""></a>
+                                            <a href="http://freecode.today"><img src="../res/img/project_2.png" alt=""></a>
                                         </div>
                                     </div>
                                     <div class="tabs__content">
@@ -484,14 +484,14 @@ include_once "./CDN_Header.php"
                                             hashtag-Blogger
                                         </h2>
                                         <div class="img__box">
-                                            <a href="https://suraj99900.github.io/hashtag.github.io/"><img src="res/img/project_3.png" alt=""></a>
+                                            <a href="https://suraj99900.github.io/hashtag.github.io/"><img src="../res/img/project_3.png" alt=""></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="img_box padd-15">
-                                <img src="res/img/testing.png">
+                                <img src="../res/img/testing.png">
                             </div>
                         </div>
                     </div>
@@ -513,9 +513,9 @@ include_once "./CDN_Header.php"
                     <div class="faq_box ">
                         <div class="row">
                             <div class="faq_img padd-15">
-                                <img src="res/img/faq_1.png" alt="">
+                                <img src="../res/img/faq_1.png" alt="">
                                 <div class="faq_img__inner">
-                                    <img src="res/img/faq_2.png">
+                                    <img src="../res/img/faq_2.png">
                                 </div>
                             </div>
                             <div class="faq_content padd-15">

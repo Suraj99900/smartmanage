@@ -83,10 +83,10 @@ let banner_img = document.getElementById("banner_img");
 let anim = document.querySelector(".caption-box");
 
 var myImages = [
-    "res/img/1_.jpg",
-    "res/img/2_.jpg",
-    "res/img/3_.jpg",
-    "res/img/gallery_4.jpg",
+    "../res/img/1_.jpg",
+    "../res/img/2_.jpg",
+    "../res/img/3_.jpg",
+    "../res/img/gallery_4.jpg",
 ];
 
 var number = 0;
